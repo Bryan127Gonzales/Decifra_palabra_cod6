@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Adivina</string>
+    <string name="instructions">Descifra la palabra usando todas las letras.</string>
+    <string name="skip">Saltar</string>
+    <string name="submit">Enviar</string>
+    <string name="score">Puntaje: %d</string>
+    <string name="word_count">%d/10</string>
+    <string name="enter_your_word">Ingresa la palabra</string>
+    <string name="congratulations">Felicidades!</string>
+    <string name="you_scored">"Tu puntaje: %d"</string>
+    <string name="exit">Salir</string>
+    <string name="play_again">Jugar otra vez</string>
+    <string name="wrong_guess">Palabra incorrecta!</string>
+</resources>
